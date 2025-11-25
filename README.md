@@ -1,6 +1,20 @@
 
+
 <div align="center">
-	<img src="https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Proyecto" width="600"/>
+	<img src="https://res.cloudinary.com/dvwpxy4kh/image/upload/v1764053424/logo-navbar_tf7yn4.png" alt="Logo del Proyecto" width="600"/>
+	<br/>
+	<hr/>
+	<h3>🔎 Vista previa del proyecto</h3>
+	<table>
+		<tr>
+			<td align="center"><img src="https://res.cloudinary.com/dvwpxy4kh/image/upload/v1764053425/screen_1_diayhx.png" alt="Vista previa 1" width="320"/></td>
+			<td align="center"><img src="https://res.cloudinary.com/dvwpxy4kh/image/upload/v1764053420/screen_2_bec9pu.jpg" alt="Vista previa 2" width="320"/></td>
+		</tr>
+		<tr>
+			<td align="center"><img src="https://res.cloudinary.com/dvwpxy4kh/image/upload/v1764053422/screen_3_jfnagf.png" alt="Vista previa 3" width="320"/></td>
+			<td align="center"><img src="https://res.cloudinary.com/dvwpxy4kh/image/upload/v1764053421/screen_4_so6kjs.jpg" alt="Vista previa 4" width="320"/></td>
+		</tr>
+	</table>
 	<h1>🛍️ Proyecto 4 - E-commerce</h1>
 	<p>Plataforma web moderna para venta de productos, desarrollada con <b>Next.js</b> y <b>Express + TypeORM</b>.</p>
 </div>

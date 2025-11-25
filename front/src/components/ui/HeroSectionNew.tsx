@@ -24,7 +24,7 @@ const HeroSection = () => {
             isLoaded ? 'scale-105' : 'scale-100'
           }`}
           style={{
-            backgroundImage: `url('https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80')`
+            backgroundImage: `url('https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1500&q=80')`
           }}
         ></div>
         <div className={`absolute inset-0 bg-black/40 transition-opacity duration-1000 ${
